@@ -1,0 +1,42 @@
+_repo: La-race-future_28412
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Frary, Raoul
+    birthdate: 1842
+    deathdate: 1892
+    gutenberg_agent_id: '33319'
+    url: http://www.gutenberg.org/2009/agents/33319
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lytton, Edward Bulwer Lytton, Baron
+    aliases:
+    - Bulwer-Lytton, Edward George Earle Lytton, 1st Baron
+    - Bulwer, Edward Lytton
+    birthdate: 1803
+    deathdate: 1873
+    gutenberg_agent_id: '761'
+    url: http://www.gutenberg.org/2009/agents/761
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Bulwer-Lytton,_1st_Baron_Lytton
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2009-03-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28412'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Utopias -- Fiction'
+- !lcsh 'Utopian fiction'
+- !lcsh 'Civilization, Subterranean -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Underground areas -- Fiction'
+title: La race future
+url: http://www.gutenberg.org/ebooks/28412
